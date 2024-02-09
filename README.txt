@@ -1,8 +1,3 @@
- __________________________________
-|Boggle COO, M1 Informatique, CL.  |	
-|- Al Natour Mazen                 |                
-|__________________________________|
-
 Vous trouverez 1 dossier et un fichier dans ce répertoire :
 -------------------------------------------------------------
 		
@@ -12,11 +7,6 @@ Vous trouverez 1 dossier et un fichier dans ce répertoire :
 	
 		--> la commande "make" permet de compiler les fichiers sources 
 		--> la commande "make clean" permet de nettoyer les fichiers générés
-		
-	/!\ IMPORTANT POUR LE FONCTIONNEMENT DU JEU /!\
-		
-		Il faudrait placer le fichier du dictionnaire "dico.txt" au même niveau que le Makefile et ce readme, dans le cas contraire le Boggle enverra une erreur et ne fonctionnera pas.
-	
 
 Comment utiliser le Boggle ? 
 ----------------------------
